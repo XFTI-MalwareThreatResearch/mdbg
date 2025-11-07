@@ -65,7 +65,5 @@ Links
 Visual Studio 2010 & .NET Framework 4
 
 Additional Features:
-dumpexe command for dumping executables from memory (useful for instance if you have an encrypted executable, you run the decryption method then dump it from memory).
-Support for IronPython 3
-Additional scripting functions for obtaining values from variables and such.
+dumpexe command for dumping executables from memory (useful for instance if you have an encrypted executable, you run the decryption method then dump it from memory), Support for IronPython 3, Additional scripting functions for obtaining values from variables and such.
 
